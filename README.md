@@ -75,7 +75,7 @@ The goal of this dashboard is to uncover insights into **customer behavior, sale
 
 
 ## 📷 Dashboard Preview
-![Sales Dashboard](https://raw.githubusercontent.com/USERNAME/REPO/main/dashboard.png)
+![Screenshot 2025224](https://github.com/user-attachments/assets/044a1a71-f4fe-48bb-b566-a9ee3bcd6c73)
 
 
 ---
