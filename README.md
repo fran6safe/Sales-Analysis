@@ -74,7 +74,7 @@ The goal of this dashboard is to uncover insights into **customer behavior, sale
 ---
 
 ## 📷 Dashboard Preview
-![Sales Dashboard](./Screenshot.jpg)  
+[![Sales Dashboard](./Screenshot.jpg)  ](https://drive.google.com/open?id=1ulbBlX2V_f1d5tzOuvZixP2d7zTXDmrc&usp=drive_fs)
 
 ---
 
