@@ -77,6 +77,15 @@ The goal of this dashboard is to uncover insights into **customer behavior, sale
 ## 📷 Dashboard Preview
 ![Screenshot 2025224](https://github.com/user-attachments/assets/044a1a71-f4fe-48bb-b566-a9ee3bcd6c73)
 
+## 🛠️ My Contribution
+
+I carried out the complete **data analysis and visualization process** for this project, which involved:  
+- Cleaning, transforming, and preparing the raw sales dataset (2014–2017).  
+- Designing and developing an **interactive dashboard** to track sales, profit, and customer trends.  
+- Highlighting key insights such as **regional performance, top products, sales teams’ efficiency, and seasonal trends**.  
+- Communicating findings in a clear and visually engaging format to support **data-driven decision-making**.  
+
+
 
 ---
 
